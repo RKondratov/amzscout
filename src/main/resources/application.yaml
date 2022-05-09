@@ -1,0 +1,7 @@
+spring:
+  data.rest:
+    basePath: /api
+    return-body-on-create: true
+app:
+  period: 3600
+  reqNumber: 3
